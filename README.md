@@ -6,7 +6,6 @@ A local Python agent that uses offline LLM inference to iteratively optimize and
 The log below shows the agent successfully proposing a structural update, bypassing a Linux file lock using an atomic swap, and restarting its main loop with the newly generated code.
 
 ![Hot-Swap Execution Log](image_883d4c.png)
-*(Note: Upload your screenshot to the repository and ensure it's named image_883d4c.png so it displays here)*
 
 ## Architecture
 
