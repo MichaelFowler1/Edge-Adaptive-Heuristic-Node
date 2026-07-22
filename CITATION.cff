@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Edge-Adaptive-Heuristic-Node"
+abstract: "A self-modifying, offline-first execution environment. Features AST-validated syntax guarding and dynamic process replacement for safe, continuous code evolution on edge hardware."
+authors:
+  - family-names: "Fowler"
+    given-names: "Michael"
+    alias: "MichaelFowler1"
+repository-code: "https://github.com/MichaelFowler1/Edge-Adaptive-Heuristic-Node"
+url: "https://github.com/MichaelFowler1/Edge-Adaptive-Heuristic-Node"
+license: "Apache-2.0"
+date-released: "2026-04-24"
